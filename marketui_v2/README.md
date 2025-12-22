@@ -1,5 +1,5 @@
 # Market UI v2
-Now in dark theme and 30 items per category, providing a modern and neat look.
+Now in dark theme and 30 items per category, providing a modern and neat look. There's also a slider in settings to choose what version you'd like use including v1.
 
 ## Features
 - Shows Item name on hover or pressed state
