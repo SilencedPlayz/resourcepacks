@@ -2,7 +2,7 @@
 Adds a grid layout form template that has a max of 45 buttons (9x5 grid), and each button can have custom background color such as default, red, purple, and green.
 
 ## Screenshot
-![img](gridform_v3/Screenshot_20251224-025519.jpg)
+![img](./Screenshot_20251224-025519.jpg)
 
 ## Usage
 - The form title should have the prefix ``§g§r§i§d§r``, this saves the default form template.
