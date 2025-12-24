@@ -1,6 +1,8 @@
 # Grid Action Form v3
 Adds a grid layout form template that has a max of 45 buttons (9x5 grid), and each button can have custom background color such as default, red, purple, and green.
 
+**NOTE**: The buttons that doesn't have icons will not show on the form, best for making layouts with extra spaces.
+
 ## Screenshot
 ![img](./Screenshot_20251224-025519.jpg)
 
